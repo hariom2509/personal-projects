@@ -1,0 +1,11 @@
+.env
+__pycache__/
+build/
+.ipynb_checkpoints
+node_modules/
+dist/
+.vscode/
+*.pyc
+*.pyo
+*.pyd
+*.zip
